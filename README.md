@@ -10,14 +10,14 @@
 
 
 <h3>
-    I am an aspiring Web Developer and Android Developer
+    I am an aspiring Full-Stack Developer & Game Developer
 </h3>
 
-🔭 I’m currently working on .NET, PHP, MERN Stack and Android Development (Java)
+🔭 I’m currently working on .NET, PHP, Unity and Android Development (Java)
 🌱 I’m currently learning MERN Stack Development
 👯 I’m looking to collaborate on GitHub In Interesting Projects
 💬 Ask me about anything
-📫 How to reach me: mohibejaz111111@gmail.com
+📫 How to reach me: mohib@swishsols.com
 
 <h3>
     Languages and Tools used
